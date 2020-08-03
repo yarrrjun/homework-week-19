@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica Neue', Lucida Console, Courier, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+code {
+  font-family: 'Courier New', monospace;
+}
